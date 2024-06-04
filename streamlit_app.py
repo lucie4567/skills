@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-
 # Title of the questionnaire
 st.title("Comprehensive Questionnaire")
 
